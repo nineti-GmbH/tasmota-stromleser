@@ -1,0 +1,4 @@
+9d48aac6f465d01622da48568fc0ab1ed476d9c9571aa8d8b16ed523865a9598  bins/sl-tasmota-15.0.1.3-cloud-factory.bin
+9d59208a489d9331de9251bf211ff968b3b4530cdb7c7fb336d897592502238a  bins/sl-tasmota-15.0.1.3-cloud-ota.bin
+98373e71e07fbdd1ef77ab4805986695adcbcdd8fe97bcd8b74d469fb7fdb113  bins/sl-tasmota-15.0.1.3-nocloud-factory.bin
+fe87b521c81e8ffcfbb6f67e66f020325f45e76edd7cc56cd8f68c9928eb9186  bins/sl-tasmota-15.0.1.3-nocloud-ota.bin
